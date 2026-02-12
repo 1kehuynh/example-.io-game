@@ -20,5 +20,5 @@ function downloadAsset(assetName) {
 }
 
 export const downloadAssets = () => downloadPromise;
-
+ 
 export const getAsset = assetName => assets[assetName];

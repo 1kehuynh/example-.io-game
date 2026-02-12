@@ -1,0 +1,1 @@
+echo "Your application URL is: https://3000-$WEB_HOST"
